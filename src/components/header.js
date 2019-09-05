@@ -1,14 +1,16 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+import styled from 'styled-components';
+
+import { nonExecutableDefinitionMessage } from "graphql/validation/rules/ExecutableDefinitions";
+
+const StyledLi = styled.li`
+   margin-right: 1em;
+`;
 
 const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
+  <header>
     <div
       style={{
         margin: `0 auto`,
@@ -20,15 +22,34 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: `white`,
             textDecoration: `none`,
+            marginRight: `1em`,
           }}
         >
           {siteTitle}
         </Link>
       </h1>
-    </div>
+
+    <nav style={{alignSelf: `flex-end`}}>
+    <ul
+      style={{
+        marginBottom: 0,
+        marginTop: `1em`,
+        marginLeft: 0,
+        listStyle: `none`,
+        display: `flex`,
+      }}
+    >
+      <StyledLi><Link to="/">About</Link></StyledLi>
+      <StyledLi><Link to="/talks">Talks</Link></StyledLi>
+      <StyledLi><Link to="/events">Events</Link></StyledLi>
+    </ul>
+  </nav>
+  </div>
   </header>
+
+
+
 )
 
 Header.propTypes = {
