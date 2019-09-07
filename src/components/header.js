@@ -41,6 +41,7 @@ const Header = ({ siteTitle }) => (
       }}
     >
       <StyledLi><Link to="/">About</Link></StyledLi>
+        <StyledLi><Link to="/notes">Notes</Link></StyledLi>
       <StyledLi><Link to="/talks">Talks</Link></StyledLi>
       <StyledLi><Link to="/events">Events</Link></StyledLi>
     </ul>
