@@ -21,22 +21,22 @@
   },
   {
     "title": "Mobile First - from the front lines",
-    "url": "./assets/presentations/cloudbursting-2012/mobile-first.htm",
+    "url": "/assets/presentations/cloudbursting-2012/mobile-first.htm",
     "event": "Cloudbursting"
   },
   {
     "title": "A responsive theme in 50 lines of code",
-    "url": "./assets/pdfs/responsive.pdf",
+    "url": "/assets/pdfs/responsive.pdf",
     "event": "Drupalcamp Dublin"
   },
   {
     "title": "What the f**k is a polyfill?",
-    "url": "./assets/pdfs/polyfills.pdf",
+    "url": "/assets/pdfs/polyfills.pdf",
     "event": "Frontend United Amsterdam"
   },
   {
     "title": "git on Drupal.org - its easier than you think",
-    "url": "./assets/pdfs/gitdrupalorg.pdf",
+    "url": "/assets/pdfs/gitdrupalorg.pdf",
     "event": "Drupalcon Chicago 2010"
   }
 ]
