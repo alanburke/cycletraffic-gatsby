@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "title": "DevOps Days Galway",
+      "date": "2019-11-18",
+      "url": "https://devopsdays.org/events/2019-galway/"
+    },
+    {
+      "title": "FrontEnd United Utrecht",
+      "date" : "2019-05-17",
+      "url" : "http://www.frontendunited.org/"
+    },
+    {
+      "title": "DrupalCon Vienna",
+      "date" : "2017-09-26",
+      "url" : "https://events.drupal.org/vienna2017"
+    },
+    {
+      "title": "FrontEnd United Athens",
+      "date" : "2017-05-26",
+      "url" : "http://www.frontendunited.org/"
+    },
+    {
+      "title": "Drupalcamp Northern Lights, Iceland",
+      "date" : "2017-02-24",
+      "url" : "https://dcnlights.drupal.is/"
+    },
+    {
+      "title": "DrupalCon Dublin",
+      "date": "2016-09-01",
+      "url": "https://events.drupal.org/dublin2016"
+    },
+    {
+      "title": "FrontEnd United Ghent",
+      "date": "2016-05-26",
+      "url": "http://2016.frontendunited.org/"
+    },
+    {
+      "title": "DrupalCon Amsterdam",
+      "date": "2014-11-09",
+      "url": "https://amsterdam2014.drupal.org/"
+    },
+    {
+      "title": "Drupalcamp Dublin 2014",
+      "date": "2014-05-16",
+      "url": "http://2014.drupal.ie/"
+    },
+    {
+      "title": "Drupalcamp Cork",
+      "date": "2013-11-08",
+      "url": "http://drupalcampcork.org/"
+    },
+    {
+      "title": "DrupalCon Prague",
+      "date": "2013-09-01",
+      "url": "http://prague2013.drupal.org/"
+    },
+    {
+      "title": "Drupalcamp Dublin",
+      "date": "2013-03-05",
+      "url": "http://www.drupalcampireland.org/"
+    },
+    {
+      "title": "Frontend United",
+      "date": "http://frontendunited.org/",
+      "url": "http://frontendunited.org/"
+    },
+    {
+      "title": "DrupalCon Munich",
+      "date": "2012-08-01",
+      "url": "http://munich2012.drupal.org/"
+    }
+  ]
+}

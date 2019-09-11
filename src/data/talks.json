@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Building a co-lingual website - lessons learned from ireland.ie",
+    "url": "https://dcnlights.drupal.is/sessions",
+    "event": "Drupalcamp Northern Lights, Iceland"
+  },
+  {
+    "title": "Choosing Drupal - Insights from an Irish multinational",
+    "url": "https://events.drupal.org/dublin2016/sessions/choosing-drupal-insider-advice-irish-multinational",
+    "event": "Choosing Drupal - Insights from an Irish multinational"
+  },
+  {
+    "title":"Choosing Drupal - Insights from an Irish multinational",
+    "url": "https://events.drupal.org/dublin2016/sessions/irelandie-peek-behind-curtain-4-things-make-it-tick",
+    "event": "DrupalCon Dublin"
+  },
+  {
+    "title": "GSS - CSS layout system",
+    "url": "https://amsterdam2014.drupal.org/session/gss-css-layout-system-thats-2-generations-ahead",
+    "event": "DrupalCon Amsterdam 2014"
+  },
+  {
+    "title": "Mobile First - from the front lines",
+    "url": "./assets/presentations/cloudbursting-2012/mobile-first.htm",
+    "event": "Cloudbursting"
+  },
+  {
+    "title": "A responsive theme in 50 lines of code",
+    "url": "./assets/pdfs/responsive.pdf",
+    "event": "Drupalcamp Dublin"
+  },
+  {
+    "title": "What the f**k is a polyfill?",
+    "url": "./assets/pdfs/polyfills.pdf",
+    "event": "Frontend United Amsterdam"
+  },
+  {
+    "title": "git on Drupal.org - its easier than you think",
+    "url": "./assets/pdfs/gitdrupalorg.pdf",
+    "event": "Drupalcon Chicago 2010"
+  }
+]
