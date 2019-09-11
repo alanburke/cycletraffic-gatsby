@@ -10,17 +10,17 @@ const IndexPage = () => (
     <h2>I work for <a title="Drupal Development, Ireland" href="https://www.annertech.com">Annertech</a>, where we build <a href="https://www.annertech.com/case-studies">great websites</a> and help people get the most from the Internet.</h2>
     <p><small>Luckily, <a href="https://www.annertech.com/about">some other people</a> do the design work!</small></p>
 
-    <section class="contact">
+    <section className="contact">
     <h3>Don't be shy, Get in touch!</h3>
     <ul>
-      <li class="mail"><i class="icon-envelope icon-large"></i><a href="mailto:alan@cycletraffic.com">alan@cycletraffic.com</a></li>
-      <li class="twitter"><i class="icon-twitter-sign icon-large"></i><a href="http://twitter.com/alanjosephburke">@alanjosephburke</a></li>
-      <li class="drupal"><i class="icon-tint icon-large"></i> <a href="http://drupal.org/user/35997">alanburke on drupal.org</a></li>
-      <li class="github"><i class="icon-github-sign icon-large"></i> <a href="http://github.com/alanburke">alanburke on github</a></li>
+      <li className="mail"><i className="icon-envelope icon-large"></i><a href="mailto:alan@cycletraffic.com">alan@cycletraffic.com</a></li>
+      <li className="twitter"><i className="icon-twitter-sign icon-large"></i><a href="http://twitter.com/alanjosephburke">@alanjosephburke</a></li>
+      <li className="drupal"><i className="icon-tint icon-large"></i> <a href="http://drupal.org/user/35997">alanburke on drupal.org</a></li>
+      <li className="github"><i className="icon-github-sign icon-large"></i> <a href="http://github.com/alanburke">alanburke on github</a></li>
     </ul>
   </section>
 
-  <section class="work">
+  <section className="work">
     <h3>So what have I been involved with lately?</h3>
     <ul>
       <li><a href="https://www.folens.ie">Folens Publishers</a></li>
