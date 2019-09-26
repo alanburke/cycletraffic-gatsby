@@ -4,4 +4,5 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
-// You can delete this file if you're not using it
+ // Add css for Prism code blocks.
+require("prismjs/themes/prism-solarizedlight.css")
