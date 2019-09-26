@@ -18,10 +18,11 @@ const EventsPage = () => (
           var eventDate = new Date(data.date);
           if (eventDate > now) {
             var printDate = new Moment(eventDate).format('MMMM YYYY');
-            return <li key={`content_item_${index}`}>
+            var eventLink = <li key={`content_item_${index}`}>
               <a href={data.url}>{data.title}</a> - <time dateTime = {data.date} >{printDate}</time>
             </li>
           }
+          return eventLink
         })}
       </ul>
       <h2>Too Late - But I was here&hellip;</h2>
@@ -31,10 +32,11 @@ const EventsPage = () => (
           var eventDate = new Date(data.date);
           if (eventDate < now) {
             var printDate = new Moment(eventDate).format('MMMM YYYY');
-            return <li key={`content_item_${index}`}>
+            var eventLink = <li key={`content_item_${index}`}>
               <a href={data.url}>{data.title}</a> - <time dateTime = {data.date} >{printDate}</time>
             </li>
           }
+          return eventLink
         })}
       </ul>
     </section>
