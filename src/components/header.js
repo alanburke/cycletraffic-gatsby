@@ -3,9 +3,6 @@ import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components';
 
-import { nonExecutableDefinitionMessage } from "graphql/validation/rules/ExecutableDefinitions";
-
-
 const Header = ({ siteTitle }) => (
   <header>
     <div
