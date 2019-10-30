@@ -7,7 +7,7 @@ path: "/notes/gatsby-next-steps"
 
 In the first edition of this stite in Gatsby, I wasn't really making any use of one of the key features of Gatsby - its ability to allow data from a variety of sources to be _processed_ and then _generated_ into pages.
 
-To rectify that, well, I needed some data. And what you'r reading now is [some of that data](/notes). I haven't been blogging, or producing much content online for a while, and now was (another!) attempt to rectify that. I put together some notes on my recent work, in Markdown format. Nothing special, just text and links for now.
+To rectify that, well, I needed some data. And what you're reading now is [some of that data](/notes). I haven't been blogging, or producing much content online for a while, and now was (another!) attempt to rectify that. I put together some notes on my recent work, in Markdown format. Nothing special, just text and links for now.
 
 The first step was to get Gatsby to recognise this data, which mean adding a plugin to [process the Markdown posts](https://www.gatsbyjs.org/packages/gatsby-transformer-remark/) and pull them into the data layer. 
 
@@ -67,6 +67,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   })
 }
 ```
-It could be a little more elegant, and I'm in trouble once I hit 1000 posts! But it does the job, and now the work can read my wisdom again.
+It could be a little more elegant, and I'm in trouble once I hit 1000 posts! But it does the job, and now the world can read my wisdom again.
 
 
