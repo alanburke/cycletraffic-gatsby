@@ -5,8 +5,8 @@ tags:
   - netlify
   - jamstack
 path: /notes/using-netlify-cms
-content: |-
-  Adding a page to a Jamstack site.
-  Using a CMS.
 ---
+
+Adding a page to a Jamstack site.
+Using a CMS.
 
