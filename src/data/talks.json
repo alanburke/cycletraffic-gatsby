@@ -1,5 +1,10 @@
 [
   {
+    "title": "JAMStack - Reducing Complexity",
+    "url": "/assets/pdfs/JAMstack-Reducing-Complexity.pdf",
+    "event": "Devopsdays Galway, 2019"
+  },
+  {
     "title": "Building a co-lingual website - lessons learned from ireland.ie",
     "url": "https://dcnlights.drupal.is/sessions",
     "event": "Drupalcamp Northern Lights, Iceland"
