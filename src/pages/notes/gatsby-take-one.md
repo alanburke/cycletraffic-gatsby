@@ -20,4 +20,4 @@ I didn't go to the effort of using CSS in JS yet but there's a way to just [keep
 
 It was _disturbingly_ easy to deplpy the site to Netlify - once it was connected to the [github repo](https://github.com/alanburke/cycletraffic-gatsby) that hosts the source code, it worked out that I was running a Gatsby site and configured the build process immediately. 
 
-I'm barely scratching the surface of what Gatsby is capable of, but that will come in time. In the meantime, thanks to Netliy, I can link directly to the state of the site [just after building in Gatsby](https://5d716d9f8464df934e14bf06--elated-jepsen-d3fc1d.netlify.com/).
+I'm barely scratching the surface of what Gatsby is capable of, but that will come in time. In the meantime, thanks to Netlify, I can link directly to the state of the site [just after building in Gatsby](https://5d716d9f8464df934e14bf06--elated-jepsen-d3fc1d.netlify.com/).
