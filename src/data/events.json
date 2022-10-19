@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "title": "DrupalCon 2023 Lille",
+      "date": "2023-10-01",
+      "url": "https://events.drupal.org/"
+    },       
+    {
+      "title": "DrupalCon 2022 prague",
+      "date": "2022-09-20",
+      "url": "https://events.drupal.org/prague2022"
+    },    
+    {
       "title": "DevopsDays Galway",
       "date": "2019-11-18",
       "url": "https://devopsdays.org/events/2019-galway/"
