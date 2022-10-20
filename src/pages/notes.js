@@ -18,7 +18,8 @@ const IndexPage = ({
   return (
     <Layout>
     <SEO title="Alan Burke, Website Developer" />
-      <h1>Incoherent ramblings of a lunatic / <br/> Notes on Web Development</h1>
+      <h1>Notes on Web Development</h1>
+	<h2>Because writing blog posts can feel daunting.</h2>
       <ul>
         {Posts}
       </ul>
