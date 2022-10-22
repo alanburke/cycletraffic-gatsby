@@ -43,4 +43,14 @@ T﻿his site is currently edited with NetlifyCMS and it does the tricky. Not nea
 
 T﻿he democratisation of CDNs, once only available to those with deep-pockets, again tipped the balance towards Static-site generators in my head. But in the absence of any real competitors to Drupal in the CMS stakes, Drupal is still winning at the company level, and instead of just generating all the pages in advance, I'm becoming more familiar with HTTP cache headers and flush APIs.
 
-O﻿f course new frameworks and approaches appear all the time. In between starting this item and finishing it, I stumbled across [Enhanc](https://enhance.dev/docs/)
+O﻿f course new frameworks and approaches appear all the time. In between starting this item and finishing it, I stumbled across Enhance which nails its colours to the mast front and centre with a [core philosophy](https://enhance.dev/docs/learn/why-enhance)
+
+> Our mission is to enable anyone to build multi-page dynamic web apps while staying as close to the platform as possible.
+
+N﻿ow that piqued my interest - a better articulated version of my own "**T﻿rust in the basics of the web**."
+
+D﻿igging around there led me to [Architect](https://arc.codes/docs/en/get-started/quickstart) : "a simple framework for building and delivering powerful Functional Web Apps (FWAs) on AWS" and to [Begin](https://learn.begin.com/) , which is an alternate approach to Serverless, (I think). 
+
+I﻿'m liking a lot of what I read here. In particular the approach to [Progressive Enhancement](https://blog.begin.com/posts/2022-08-05-progressively-enhancing-form-submissions-with-web-components) even if [I don't agree with everything](https://blog.begin.com/posts/2022-05-10-why-i-no-longer-use-static-site-generators) they say. I can see myself learning more and these tools and [FWAs](www.fwa.dev) in general.
+
+I﻿ guess there's always something new and shiny to learn about.
