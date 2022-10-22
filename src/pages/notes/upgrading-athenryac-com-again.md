@@ -3,7 +3,7 @@ title: Upgrading athenryac.com. Again.
 date: 2022-10-21
 tags:
   - Drupal
-path: /notes/
+path: /notes/updating-athenry-ac-again
 ---
 M﻿y very first Drupal site - the one the launched my career as a web developer in many ways - was www.athenryac.com. I was getting involved with my local Athletic club, and put my hand up to build a website for an upcoming event. I evaluated a number of platforms such as Mambo and Zend - this was in the days before Wordpress - and landed on Drupal. The initial launch was on Drupal 4.4, and I thought I was just brilliant.
 

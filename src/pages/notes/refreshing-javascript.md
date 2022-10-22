@@ -3,7 +3,7 @@ title: Refreshing Javascript
 date: 2022-10-20
 tags:
   - js
-path: /notes/
+path: /notes/refreshing-javascript
 ---
 H﻿aven't done much with this site in a while, but in the grand tradition of giving it an update every couple of years - here we go again.
 
