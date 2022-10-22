@@ -43,7 +43,7 @@ T﻿his site is currently edited with NetlifyCMS and it does the tricky. Not nea
 
 T﻿he democratisation of CDNs, once only available to those with deep-pockets, again tipped the balance towards Static-site generators in my head. But in the absence of any real competitors to Drupal in the CMS stakes, Drupal is still winning at the company level, and instead of just generating all the pages in advance, I'm becoming more familiar with HTTP cache headers and flush APIs.
 
-O﻿f course new frameworks and approaches appear all the time. In between starting this item and finishing it, I stumbled across Enhance which nails its colours to the mast front and centre with a [core philosophy](https://enhance.dev/docs/learn/why-enhance)
+O﻿f course new frameworks and approaches appear all the time. In between starting this item and finishing it, I stumbled across [Enhance](https://enhance.dev/docs/) which nails its colours to the mast front and centre with a [core philosophy](https://enhance.dev/docs/learn/why-enhance)
 
 > Our mission is to enable anyone to build multi-page dynamic web apps while staying as close to the platform as possible.
 
