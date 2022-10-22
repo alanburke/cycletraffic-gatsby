@@ -51,6 +51,6 @@ N﻿ow that piqued my interest - a better articulated version of my own "**T﻿r
 
 D﻿igging around there led me to [Architect](https://arc.codes/docs/en/get-started/quickstart) : "a simple framework for building and delivering powerful Functional Web Apps (FWAs) on AWS" and to [Begin](https://learn.begin.com/) , which is an alternate approach to Serverless, (I think). 
 
-I﻿'m liking a lot of what I read here. In particular the approach to [Progressive Enhancement](https://blog.begin.com/posts/2022-08-05-progressively-enhancing-form-submissions-with-web-components) even if [I don't agree with everything](https://blog.begin.com/posts/2022-05-10-why-i-no-longer-use-static-site-generators) they say. I can see myself learning more and these tools and [FWAs](www.fwa.dev) in general.
+I﻿'m liking a lot of what I read here. In particular the approach to [Progressive Enhancement](https://blog.begin.com/posts/2022-08-05-progressively-enhancing-form-submissions-with-web-components) even if [I don't agree with everything](https://blog.begin.com/posts/2022-05-10-why-i-no-longer-use-static-site-generators) they say. I can see myself learning more and these tools and [FWAs](//www.fwa.dev) in general.
 
 I﻿ guess there's always something new and shiny to learn about.
